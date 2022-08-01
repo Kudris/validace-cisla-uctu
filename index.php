@@ -2,8 +2,6 @@
 <title>Ověření Bank účtu</title>
 <?php
 function validateBankAccount($bankAccount) 
-
-
 {
 	if(isset($_POST["name"]))
 	{
